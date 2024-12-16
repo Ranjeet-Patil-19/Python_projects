@@ -1,0 +1,4 @@
+.Project Name**: Data Analysis and Visualization
+Description: Analyze COVID-19 data, displaying trends in cases, recoveries, or vaccination rates by country over time.
+ Technologies Used:Pandas, NumPy, Matplotlib, Seaborn, or Plotly for interactive visuals.
+
